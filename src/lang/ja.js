@@ -1,0 +1,51 @@
+export default {
+	BASIC:{
+		USER:"ユーザー",
+		ACCOUNT:"アカウント",		
+		PASSWORD:"パスワード",	
+		LOGIN:"ログイン",
+		LOGIN_OUT:"ログアウト",
+		CODE:"验证码",
+		REGISTER:"注册",
+		ENTER:"確認",
+		CANCEL:"キャンセル",
+		EXIT:"退出",
+		LANGUAGES:"语言",
+		ADD:"追加",
+		NORMAL:"正常",
+		DISABLED:"無効化",
+		REMARKS:"コメント",
+		DESCRIPTION:"説明",
+		UNKNOW:"不明",
+		TIP:"ヒント",
+		OPERATION:"操作"
+	},
+	NAV:{
+		INDEX:"主页",
+	},
+	MODULE:{
+
+	},
+	INFOS:{
+		PHONE:"手机号码",
+		INFO:"私の資料",
+		GENDE:"性别",
+		NAME:"名前",
+		MAN:"男",
+		WOMAN:"女",
+		ORDER:"番号付け"
+	},
+	EVENTS:{
+		SEND_CODE:"发送验证码",
+		SWITCH_LANGUAGES:"言語を切り替え",
+		UNSELECT:"選択しない",
+	},
+	TIPS:{
+		CLIENT:{
+			
+		},
+		SERVER:{
+			1001:""
+		}
+	}
+}
