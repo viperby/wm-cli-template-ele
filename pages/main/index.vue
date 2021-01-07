@@ -46,7 +46,6 @@
 		mapState,
 		mapMutations
 	} from 'vuex'
-
 	export default {
 		components: {
 			breadcrumb,
